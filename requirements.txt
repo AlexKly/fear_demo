@@ -1,0 +1,5 @@
+PyYAML~=6.0.2
+numpy~=1.26.4
+fer~=22.5.1
+mss~=10.1.0
+opencv-python
