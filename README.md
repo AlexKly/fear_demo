@@ -1,6 +1,7 @@
 # Fear Demo
 
 ## Overview
+Fear Demo app scans your emotions and detects fear, then saves snapshots of your screen and webcam at regular intervals.
 
 ## How to run app at the first time
 0. Open terminal
